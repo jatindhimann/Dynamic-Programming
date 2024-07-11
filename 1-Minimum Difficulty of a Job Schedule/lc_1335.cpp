@@ -3,7 +3,6 @@
 #include <algorithm>
 using namespace std;
 
-// asked in amazon
 class Solution
 {
     int t[301][11];
